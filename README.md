@@ -17,3 +17,5 @@ Emoke Orban#s commit
 Andras 2nd test (reviewed 4th comit)
 
 Master commit - is it still possible?
+
+SC 3rd commit, new branch
