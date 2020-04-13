@@ -5,3 +5,5 @@ local 2nd commit
 local 3rd commit
 
 local 4th commit
+
+local 1st after rebase
