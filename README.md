@@ -14,6 +14,6 @@ Andras Fekete's comit
 
 Emoke Orban#s commit
 
-Andras 2nd test
+Andras 2nd test (reviewed 4th comit)
 
 Master commit - is it still possible?
