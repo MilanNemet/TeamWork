@@ -1,7 +1,9 @@
 commit 1. develop
 
-					<<<<<<< HEAD
-					commit 1. gyula
-					=======
-					commit 1. milan
-					>>>>>>> Update teszt.txt
+
+commit 1. gyula
+
+
+commit 1. milan
+
+commit 2. milan
