@@ -10,4 +10,7 @@ milan 1. commit
 milan 2. commit
 
 
-milan2	1. commit
+milan2	1. commit(new_param) {}
+
+
+milan2	2. commit
