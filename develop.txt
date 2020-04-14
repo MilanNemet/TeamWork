@@ -1,3 +1,7 @@
 develop 1. commit
 
-develop 2. commit
+				<<<<<<< HEAD
+				develop 2. commit
+				=======
+				milan 1. commit
+				>>>>>>> Create develop.txt
