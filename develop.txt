@@ -11,4 +11,8 @@ milan 2. commit
 
 
 
+
 valaki 1. commit
+						=======
+						milan2	1. commit
+						>>>>>>> Update develop.txt
