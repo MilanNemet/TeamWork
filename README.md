@@ -17,8 +17,8 @@
 ```mermaid
   stateDiagram-v2
 [*] --> Thirsty
-Thirsty --> Drinking Water
-Drinking Water --> [*]
+Thirsty --> DrinkingWater
+DrinkingWater --> [*]
 Thirsty --> DrinkingTequilaSunrise
 DrinkingTequilaSunrise --> DrinkingTequilaSunrise
 DrinkingTequilaSunrise --> FeelinGood
