@@ -1,21 +1,23 @@
-# TeamWork
-GreenFox common project
-=======================
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 
-First Commit changed!
+```mermaid
+  sequenceDiagram;
+      participant A as Alice
+      participant M as Milan
+      A->>M: Hello Milan, how are you?
+      M->>A: Hello Alice, fine thanks?
+```
 
-Second commit
-
-3rd commit
-
-4th commit
-
-Andras Fekete's comit
-
-Emoke Orban#s commit
-
-Andras 2nd test (reviewed 4th comit)
-
-Master commit - is it still possible?
-
-SC 3rd commit, new branch
+```mermaid
+  sequenceDiagram;
+      participant A as Alice
+      participant M as Milan
+      A->>M: Hello Milan, how are you?
+      M->>A: Hello Alice, fine thanks?
+```
