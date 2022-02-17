@@ -15,9 +15,11 @@
 ```
 
 ```mermaid
-  sequenceDiagram;
-      participant A as Alice
-      participant M as Milan
-      A->>M: Hello Milan, how are you?
-      M->>A: Hello Alice, fine thanks?
+  stateDiagram-v2
+[*] --> Still
+Still --> [*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
 ```
