@@ -16,10 +16,16 @@
 
 ```mermaid
   stateDiagram-v2
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
+[*] --> Thirsty
+Thirsty --> Drinking Water
+Drinking Water --> [*]
+Thirsty --> Drinking Tequila Sunrise
+Drinking Tequila Sunrise --> Drinking Tequila Sunrise
+Drinking Tequila Sunrise --> Feelin' Good
+Feelin' Good --> Drinking More Tequila Sunrise
+Drinking More Tequila Sunrise --> Starting to Feel Bad
+Starting to Feel Bad --> Nothing Can Stop Me Now
+Nothing Can Stop Me Now --> Vommiting
+Vommiting --> [*]
+Starting to Feel Bad --> [*]
 ```
