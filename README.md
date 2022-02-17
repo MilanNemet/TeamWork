@@ -19,13 +19,13 @@
 [*] --> Thirsty
 Thirsty --> Drinking Water
 Drinking Water --> [*]
-Thirsty --> Drinking Tequila Sunrise
-Drinking Tequila Sunrise --> Drinking Tequila Sunrise
-Drinking Tequila Sunrise --> Feelin' Good
-Feelin' Good --> Drinking More Tequila Sunrise
-Drinking More Tequila Sunrise --> Starting to Feel Bad
-Starting to Feel Bad --> Nothing Can Stop Me Now
-Nothing Can Stop Me Now --> Vommiting
+Thirsty --> DrinkingTequilaSunrise
+DrinkingTequilaSunrise --> DrinkingTequilaSunrise
+DrinkingTequilaSunrise --> FeelinGood
+FeelinGood --> DrinkingMore
+DrinkingMore --> StartingToFeelBad
+StartingToFeelBad --> NothingCanStopMeNow
+NothingCanStopMeNow --> Vommiting
 Vommiting --> [*]
-Starting to Feel Bad --> [*]
+StartingToFeelBad --> [*]
 ```
